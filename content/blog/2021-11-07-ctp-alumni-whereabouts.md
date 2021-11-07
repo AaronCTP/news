@@ -2,7 +2,7 @@
 title: CTP Alumni Whereabouts
 date: 2021-04-21T22:47:19.938Z
 image: /images/ctp-2019.jpg
-draft: true
+draft: false
 ---
 Now that most of the early and regular decisions are out, we wanted to highlight some of our CTP Alumni who have been accepted to prestigious colleges abroad this year.
 
